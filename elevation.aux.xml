@@ -1,0 +1,9 @@
+<PAMDataset>
+  <GeoTransform> 4.7109008257249475e+005, 3.0000000000000000e+001, 0.0000000000000000e+000, 2.3135235339681862e+005, 0.0000000000000000e+000,-3.0000000000000000e+001</GeoTransform>
+  <PAMRasterBand band="1">
+    <Description>elevation</Description>
+    <Metadata>
+      <MDI key="LAYER_TYPE">athematic</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
